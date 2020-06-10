@@ -1,2 +1,4 @@
 # tmall
 springboot
+shiro
+redis
